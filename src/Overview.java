@@ -20,6 +20,10 @@ If we have time left:
 - Project Review
 
  */
+class accessModifiers{
+    public int num;
+
+}
 
 
 
